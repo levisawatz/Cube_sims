@@ -2,7 +2,7 @@
 My 3d game engine
 
 ## cube.py
-an interactive simulation that shows the extent of this engine  
+An interactive simulation that shows the extent of this engine.  
 
 ### controls:
 
@@ -24,7 +24,7 @@ an interactive simulation that shows the extent of this engine
 [space ] : toggles look around with cursor
 
 ## Rubix Twobe.py
-An interactive 3d Rubix cube  
+An interactive 3d Rubix cube.  
 
 ### controls:
 
