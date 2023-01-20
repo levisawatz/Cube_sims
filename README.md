@@ -1,6 +1,10 @@
 # Cube_sims
 My 3d game engine
 
+Required installations:
+`$ pip install pygame`
+`$ pip install RubikTwoPhase`
+
 ## cube.py
 An interactive simulation that shows the extent of this engine.  
 
@@ -25,6 +29,7 @@ An interactive simulation that shows the extent of this engine.
 
 ## Rubix Twobe.py
 An interactive 3d Rubix cube.  
+
 
 ### controls:
 
