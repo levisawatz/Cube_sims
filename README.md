@@ -1,7 +1,7 @@
 # Cube_sims
 My 3d game engine
 
-Required installations:
+Required installations:  
 `$ pip install pygame`
 `$ pip install RubikTwoPhase`
 
