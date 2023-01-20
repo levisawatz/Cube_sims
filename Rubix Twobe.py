@@ -454,10 +454,15 @@ class Rbx:
                 self.stopping=not self.stopping
         if key in "rufldb": self.queue+=key   
         if key=='s':
+            self.queue=''
+            self.midrotation=False
+            self.shuffling=False
             self.initsolve()
     def initsolve(self):
         faceletter="ULFRBD"
         currentstate=""
+        self.colorme()
+
         for face in [  self.cubetiles.u,
                     self.cubetiles.r,
                     self.cubetiles.f,

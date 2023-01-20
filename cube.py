@@ -437,6 +437,7 @@ def main():
                         mousebutton=0
                     else:
                         mousebutton=1
+                        
             elif event.type==pygame.KEYUP:                
 
                 if event.scancode==79 or event.scancode==80:##right
