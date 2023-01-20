@@ -385,6 +385,7 @@ def main():
                     cubes=resetstd(7,32)
 
                 if event.unicode=='1': #random
+                    grav=False
                     cubes=resetstd(6,40)
                       
                 if event.unicode=='2': # solar system
