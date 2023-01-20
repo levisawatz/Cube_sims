@@ -18,9 +18,9 @@ an interactive simulation that shows the extent of this engine
 "3" : 216 cubes  
 
 #### more:
-"g" : toggle gravity on/off  
-[right shift] : shoot bullets to destroy cubes. if gravity is on, cubes explode  
-[cursor on circle] : rotate all cubes
+"g" : toggle GRAVITY on/off  
+[right shift] : SHOOT bullets to destroy cubes. if gravity is on, cubes explode  
+[cursor on circle] : ROTATE all cubes  
 [space ] : toggles look around with cursor
 
 ## Rubix Twobe.py
