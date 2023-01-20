@@ -11,7 +11,7 @@ An interactive simulation that shows the extent of this engine.
 ### controls:
 
 #### moving:
-`w``a``s``d`  : look around  
+`w`,`a`,`s`,`d`  : look around  
 `>` (.) : move forwards  
 `<` (,) : move backwards  
 [arrow keys] : move camera  
@@ -34,7 +34,7 @@ An interactive 3d Rubix cube.
 ### controls:
 
 #### Rotate the cube:
-`u``d``l``r``f``b` : rotate faces of the cube  
+`u`,`d`,`l`,`r`,`f`,`b` : rotate faces of the cube  
 `h` : toggle shuffling  
 `s`: solve  
 
