@@ -14,7 +14,7 @@ An interactive simulation that shows the extent of this engine.
 `w`,`a`,`s`,`d`  : look around  
 `>` (.) : move forwards  
 `<` (,) : move backwards  
-[arrow keys] : move camera  
+`[arrow keys]` : move camera  
 
 #### presets:
 `1` : 40 cubes arranged randomly  
@@ -23,9 +23,9 @@ An interactive simulation that shows the extent of this engine.
 
 #### more:
 `g` : toggle **gravity** on/off  
-[right shift] : **Shoot** bullets to destroy cubes. if gravity is on, cubes explode  
-[cursor on circle] : **Rotate** all cubes  
-[space ] : toggles look around with cursor
+`[right shift]` : **Shoot** bullets to destroy cubes. if gravity is on, cubes explode  
+`[cursor on circle]` : **Rotate** all cubes  
+`[space ]` : toggles look around with cursor
 
 ## Rubix Twobe.py
 An interactive 3d Rubix cube.  
@@ -40,7 +40,7 @@ An interactive 3d Rubix cube.
 
 
 #### Move around:
-[arrow keys] : rotate entire cube  
+`[arrow keys]` : rotate entire cube  
 `>` (.) : move forwards  
 `<` (,) : move backwards  
 
