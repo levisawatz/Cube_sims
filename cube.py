@@ -74,8 +74,8 @@ def display(disp,cube,cam):
             dotrc=np.dot(rayd,cam.direction[0])
             if dotrc<0.1: #toobig
                 toobig=1
-                print("dotrc!!!!!!!!!")
-                print(i,j)
+                # print("dotrc!!!!!!!!!")
+                # print(i,j)
                 break
 
             d=np.dot((cam.screencenter-cam.camerapos),cam.direction[0])/dotrc
@@ -85,7 +85,7 @@ def display(disp,cube,cam):
             v1m=np.linalg.norm(v1)
             if v1m>5000:
                 toobig=1
-                print("TOOBIG")
+                # print("TOOBIG")
                 break
             v1/=v1m
             res=np.dot(cam.direction[2],v1)

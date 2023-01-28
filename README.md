@@ -7,6 +7,8 @@ Required installations:
 
 ## cube.py
 An interactive simulation that shows the extent of this engine.  
+<img src="./screenshots/cubes-cropped.gif" width="200" height="150" />
+
 
 ### controls:
 
@@ -29,7 +31,7 @@ An interactive simulation that shows the extent of this engine.
 
 ## Rubix Twobe.py
 An interactive 3d Rubix cube.  
-
+<img src="./screenshots/RBX-CUBES-crop2.gif" width="200" height="150" />
 
 ### controls:
 
