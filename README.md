@@ -35,7 +35,7 @@ An interactive 3d Rubix cube.
 
 ### controls:
 
-#### Rotate the cube:
+#### Rotate faces:
 `u`,`d`,`l`,`r`,`f`,`b` : rotate faces of the cube  
 `h` : toggle shuffling  
 `s`: solve  
