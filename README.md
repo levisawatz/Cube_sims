@@ -1,5 +1,7 @@
-# Cube_sims
-My 3d game engine
+# Cube_sims  
+Author: Levi Sawatzky
+
+A 3d game engine made from scratch  
 
 Required installations:  
 `$ pip install pygame`
